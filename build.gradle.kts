@@ -1,3 +1,11 @@
+/*
+ *
+ *  * Copyright © 2025 小满1221
+ *  * Author: 小满1221
+ *  * Date: 2025/3/30
+ *
+ */
+
 plugins {
     kotlin("jvm") version "2.1.20"
     id("com.gradleup.shadow") version "8.3.6"

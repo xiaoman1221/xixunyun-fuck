@@ -1,3 +1,11 @@
+/*
+ *
+ *  * Copyright © 2025 小满1221
+ *  * Author: 小满1221
+ *  * Date: 2025/3/30
+ *
+ */
+
 package com.xixunyun.fuck
 
 import cn.rtast.rutil.string.fromJson
@@ -26,7 +34,6 @@ fun signPush() {
 }
 
 fun userSign(token: UserToken) {
-    val tokenStr = token.toString()
-    return
+    TODO("Not yet implemented")
 }
 

@@ -1,3 +1,11 @@
+/*
+ *
+ *  * Copyright © 2025 小满1221
+ *  * Author: 小满1221
+ *  * Date: 2025/3/30
+ *
+ */
+
 package com.xixunyun.fuck.entity
 
 import com.google.gson.annotations.SerializedName
