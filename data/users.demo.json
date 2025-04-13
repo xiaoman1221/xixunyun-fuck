@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "schoolId": 114,
+      "name": "田所浩二",
+      "account": 1145141919810,
+      "model": "iPhone",
+      "phone": 114514,
+      "password": "1919810",
+      "signTime": "6:30",
+      "startMonth": "2025-01",
+      "endMonth": "2025-06",
+      "workLat": 114,
+      "workLong": 514,
+      "workLocationName": "下北泽工业大学",
+      "workLocationAddress": "",
+      "homeLat": 114,
+      "homeLong": 514,
+      "homeLocationName": "下北泽工业大学",
+      "homeLocationAddress": "",
+      "mouthSleep": 4,
+      "macAddress": "11:45:14:19:19:81"
+    }
+  ]
+}
