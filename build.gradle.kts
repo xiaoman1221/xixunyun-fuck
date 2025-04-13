@@ -26,7 +26,7 @@ dependencies {
     implementation(kotlin("stdlib"))
     implementation("cn.rtast:rtast-util-string:0.0.1")
     implementation("cn.rtast:rtast-util-http:1.0.0")
-
+    implementation("org.bouncycastle:bcpkix-jdk15on:1.70")
 }
 
 application {
